@@ -14,11 +14,6 @@
   background-color: #49696c;
 }
 
-.nav > li:hover {
-  border-left: 4px solid #85dbd4;
-  background-color: #49696c;
-}
-
 .nav > li > a {
   color: #fff;
   font-weight: 600;
@@ -36,7 +31,7 @@
   color: #4f4e4e;
 }
 
-.btn-primary {
+.btn-primary, .btn-primary:hover {
   background-color: #5eded4;
   border-color: #5eded4;
   color: #4f4e4e;
