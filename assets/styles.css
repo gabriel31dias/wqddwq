@@ -1,0 +1,52 @@
+.navbar-default {
+  background-color: #0b1f27;
+  border-color: #0b1f27;
+}
+
+.nav-header {
+  padding: 33px 25px;
+  background-color: #0b1f27;
+  background-image: url(http://localhost:3000/assets/patterns/header-profile.png);
+}
+
+.nav > li.active {
+  border-left: 4px solid #85dbd4;
+  background-color: #49696c;
+}
+
+.nav > li:hover {
+  border-left: 4px solid #85dbd4;
+  background-color: #49696c;
+}
+
+.nav > li > a {
+  color: #fff;
+  font-weight: 600;
+  padding: 14px 20px 14px 25px;
+}
+
+.navbar-default .nav > li > a:hover, .navbar-default .nav > li > a:focus {
+  background-color: #49696c;
+  color: var(--true-white);
+}
+
+.btn-neutral, .btn-neutral:hover, .btn-positive {
+  background-color: #5eded4;
+  border-color: #5eded4;
+  color: #4f4e4e;
+}
+
+.btn-primary {
+  background-color: #5eded4;
+  border-color: #5eded4;
+  color: #4f4e4e;
+}
+
+.w1-checks input[type='checkbox']:not(.switch):checked, .w1-checks input[type='radio']:not(.switch):checked {
+  background-color: #5eded4;
+  border-color: #5eded4;
+}
+
+a.sort_link {
+  color: #50bdb5;
+}
