@@ -45,3 +45,22 @@
 a.sort_link {
   color: #50bdb5;
 }
+
+.dropdown-bg-red {
+  background-color: #0B1F27 !important;
+  padding: 10px 5px;
+  position: relative;
+}
+
+.logo-navheader {
+  width: 80px; 
+  height: 39px; 
+  max-width: 100%;
+  position: absolute;
+  left: 20px;
+  top: -15px;
+}
+.profile-img {
+  width: 32px;
+  height: 32px;
+}
