@@ -50,6 +50,7 @@ a.sort_link {
   background-color: #0B1F27 !important;
   padding: 10px 5px;
   position: relative;
+  left: -20px;
 }
 
 .logo-navheader {
